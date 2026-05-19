@@ -1,4 +1,4 @@
-# 📊 Predicción del Abandono Estudiantil con Machine Learning
+# Predicción del Abandono Estudiantil con Machine Learning
 
 ## 📝 Descripción del proyecto
 
